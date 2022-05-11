@@ -10,6 +10,10 @@ public class Company {
 		System.out.println("Company Id   :9128");
 
 	}
+	public void comAdd() {
+		System.out.println("Company Aad   :chennai");
+
+	}
 	
 	public static void main(String[] args) {
 		Company c=new Company();
