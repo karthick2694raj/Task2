@@ -11,7 +11,7 @@ public class Company {
 
 	}
 	public void comAdd() {
-		System.out.println("Company Aad   :chennai");
+		System.out.println("Company phno  :165548666");
 
 	}
 	
